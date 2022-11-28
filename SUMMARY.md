@@ -9,8 +9,8 @@
 
 ## Особенности серверов <a href="#servers-features" id="servers-features"></a>
 
-* [📀 Плагины](servers-features/plaginy/README.md)
-  * [Уровни](servers-features/plaginy/urovni.md)
+* [📀 Плагины](product-guides/making-a-post.md)
+  * [Уровни ✨](servers-features/plaginy/urovni.md)
 * [💿 Схематики (Модели)](servers-features/skhematiki-modeli.md)
 
 ## Fundamentals
