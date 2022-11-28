@@ -7,10 +7,10 @@
 * [🖥 Рагнит](overview/what-we-do.md)
 * [🖥 Эльбинг](servers/elbing.md)
 
-## Product Guides
+## Особенности серверов <a href="#servers-features" id="servers-features"></a>
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📀 Плагины](servers-features/plaginy.md)
+* [💿 Схематики (Модели)](servers-features/skhematiki-modeli.md)
 
 ## Fundamentals
 
