@@ -4,8 +4,8 @@
 
 ## Сервера <a href="#servers" id="servers"></a>
 
-* [💡 Рагнит](servers/ragnit.md)
-* [✨ Our Features](servers/our-features.md)
+* [💡 Рагнит](overview/what-we-do.md)
+* [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
 
