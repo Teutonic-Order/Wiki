@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Добро пожаловать на Teutonic Order!](README.md)
 
 ## Overview
 
