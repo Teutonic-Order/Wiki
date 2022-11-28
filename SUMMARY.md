@@ -11,4 +11,5 @@
 
 * [📀 Плагины](product-guides/making-a-post.md)
   * [Уровни ✨](servers-features/plaginy/urovni.md)
+  * [Инвентарь для SCP-049](servers-features/plaginy/inventar-dlya-scp-049.md)
 * [💿 Схематики (Модели)](servers-features/skhematiki-modeli.md)
