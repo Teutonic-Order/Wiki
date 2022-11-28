@@ -4,9 +4,8 @@
 
 ## Сервера <a href="#servers" id="servers"></a>
 
-* [💡 Рагнит](overview/what-we-do.md)
-* [💡 Эльбинг](servers/elbing.md)
-* [✨ Our Features](overview/our-features.md)
+* [🖥 Рагнит](overview/what-we-do.md)
+* [🖥 Эльбинг](servers/elbing.md)
 
 ## Product Guides
 
