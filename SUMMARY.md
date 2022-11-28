@@ -7,10 +7,14 @@
 * [🖥 Рагнит](overview/what-we-do.md)
 * [🖥 Эльбинг](servers/elbing.md)
 
-## Особенности серверов <a href="#servers-features" id="servers-features"></a>
+## 🧮 Особенности серверов <a href="#servers-features" id="servers-features"></a>
 
 * [📀 Уникальные плагины](product-guides/making-a-post.md)
-  * [Уровни ✨](servers-features/unikalnye-plaginy/urovni.md)
-  * [Инвентарь для SCP-049 🔗](servers-features/unikalnye-plaginy/inventar-dlya-scp-049.md)
-  * [Случайные трупы 🧟](servers-features/unikalnye-plaginy/sluchainye-trupy.md)
-* [💿 Схематики (Модели)](servers-features/skhematiki-modeli.md)
+  * [Уровни ✨](servers-features/unikalnye-plaginy/levels.md)
+  * [Инвентарь для SCP-049 🔗](servers-features/unikalnye-plaginy/SCP-049-inventory.md)
+  * [Случайные трупы 🧟](servers-features/unikalnye-plaginy/random-ragdolls.md)
+* [💿 Схематики (Модели)](servers-features/schematics.md)
+
+## 👮 Админстрация <a href="#admin" id="admin"></a>
+
+* [❓ Как им стать?](admin/how-to-become.md)
