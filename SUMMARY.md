@@ -19,6 +19,7 @@
   * [SCP-000](servers-features/schematics/scp-000.md)
   * [SCP-6572](servers-features/schematics/scp-6572.md)
   * [SCP-143](servers-features/schematics/scp-143.md)
+  * [SCP-1423](servers-features/schematics/scp-1423.md)
 
 ## 👮 Админстрация <a href="#admin" id="admin"></a>
 
