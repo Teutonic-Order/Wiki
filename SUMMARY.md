@@ -20,6 +20,8 @@
   * [SCP-6572](servers-features/schematics/scp-6572.md)
   * [SCP-143](servers-features/schematics/scp-143.md)
   * [SCP-1423](servers-features/schematics/scp-1423.md)
+  * [Уборщики](servers-features/schematics/uborshiki.md)
+  * [Зарядник](servers-features/schematics/zaryadnik.md)
 
 ## 👮 Админстрация <a href="#admin" id="admin"></a>
 
