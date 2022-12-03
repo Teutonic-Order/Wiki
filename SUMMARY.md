@@ -10,7 +10,6 @@
 ## 🧮 Особенности серверов <a href="#servers-features" id="servers-features"></a>
 
 * [📀 Уникальные плагины](servers-features/unique-plugins/README.md)
-  * [Модельки🎭](servers-features/unique-plugins/modelki.md)
   * [Уровни ✨](servers-features/unique-plugins/levels.md)
   * [Инвентарь для SCP-049 🔗](servers-features/unique-plugins/SCP-049-inventory.md)
   * [Случайные трупы 🧟](servers-features/unique-plugins/random-ragdolls.md)
