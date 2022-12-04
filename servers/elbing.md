@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/1618010172_45-p-srednevekovii-gorod-fentezi-49.jpg
+coverY: 164.75770925110132
+---
+
 # 🖥 Эльбинг
 
 {% hint style="info" %}

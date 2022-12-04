@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/jyydd32o392004.jpg
-coverY: 0
+cover: ../.gitbook/assets/1618010252_54-p-srednevekovii-gorod-fentezi-58.jpg
+coverY: 90.7488986784141
 ---
 
 # 🖥 Рагнит
