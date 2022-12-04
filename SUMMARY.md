@@ -23,14 +23,14 @@
   * [Уборщики](servers-features/schematics/uborshiki.md)
   * [Зарядник](servers-features/schematics/zaryadnik.md)
 
-## 💰 Донат
+## 💰 Донат <a href="#donate" id="donate"></a>
 
-* [🔔 Discord / SCP:SL](donat/discord-scp-sl.md)
-* [💰 Аристократ - 220₽/месяц](donat/aristokrat-220rub-mesyac.md)
-* [🎁 Граф - 320₽/месяц](donat/graf-320rub-mesyac.md)
-* [🎾 Дворянин - 420₽/месяц](donat/dvoryanin-420rub-mesyac.md)
-* [💸 Боярин - 620₽/месяц](donat/boyarin-620rub-mesyac.md)
-* [💳 Реквизиты / алгоритм покупки привилегии](donat/rekvizity-algoritm-pokupki-privilegii.md)
+* [🔔 Discord / SCP:SL](donate/discord-scp-sl.md)
+* [💰 Аристократ - 220₽/месяц](donate/aristokrat-220rub-mesyac.md)
+* [🎁 Граф - 320₽/месяц](donate/graf-320rub-mesyac.md)
+* [🎾 Дворянин - 420₽/месяц](donate/dvoryanin-420rub-mesyac.md)
+* [💸 Боярин - 620₽/месяц](donate/boyarin-620rub-mesyac.md)
+* [💳 Реквизиты / алгоритм покупки привилегии](donate/rekvizity-algoritm-pokupki-privilegii.md)
 
 ## 👮 Админстрация <a href="#admin" id="admin"></a>
 
