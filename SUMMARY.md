@@ -20,17 +20,17 @@
   * [SCP-6572](servers-features/schematics/scp-6572.md)
   * [SCP-143](servers-features/schematics/scp-143.md)
   * [SCP-1423](servers-features/schematics/scp-1423.md)
-  * [Уборщики](servers-features/schematics/сleaners.md)
-  * [Зарядник](servers-features/schematics/сharger.md)
+  * [Уборщики](servers-features/schematics/uborshiki.md)
+  * [Зарядник](servers-features/schematics/zaryadnik.md)
 
 ## 💰 Донат <a href="#donate" id="donate"></a>
 
 * [🔔 Discord / SCP:SL](donate/discord-scp-sl.md)
-* [💰 Аристократ - 220₽/месяц](donate/aristocrat.md)
-* [🎁 Граф - 320₽/месяц](donate/graf.md)
-* [🎾 Дворянин - 420₽/месяц](donate/nobleman.md)
-* [💸 Боярин - 620₽/месяц](donate/boyar.md)
-* [💳 Реквизиты / алгоритм покупки привилегии](donate/purchase.md)
+* [💰 Аристократ - 220₽/месяц](donate/aristokrat-220rub-mesyac.md)
+* [🎁 Граф - 320₽/месяц](donate/graf-320rub-mesyac.md)
+* [🎾 Дворянин - 420₽/месяц](donate/dvoryanin-420rub-mesyac.md)
+* [💸 Боярин - 620₽/месяц](donate/boyarin-620rub-mesyac.md)
+* [💳 Реквизиты / Алгоритм покупки привилегии](donate/rekvizity-algoritm-pokupki-privilegii.md)
 
 ## 👮 Админстрация <a href="#admin" id="admin"></a>
 
