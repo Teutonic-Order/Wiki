@@ -25,7 +25,7 @@
 
 ## 💰 Донат
 
-* [🔔Discord/SCP:SL🔔](donat/discord-scp-sl.md)
+* [🔔 Discord / SCP:SL](donat/discord-scp-sl.md)
 * [💰Аристократ-220₽/месяц💰](donat/aristokrat-220rub-mesyac.md)
 * [🎁Граф - 320₽/месяц🎁](donat/graf-320rub-mesyac.md)
 * [🥎Дворянин-420₽/месяц🥎](donat/dvoryanin-420rub-mesyac.md)
