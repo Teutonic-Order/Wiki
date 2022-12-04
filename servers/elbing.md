@@ -13,3 +13,9 @@ IP: teutonic-order.ru:7778.
 Местоположение: Германия.
 
 Количество слотов: 30
+
+{% swagger method="get" path="/something" baseUrl="" summary="" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+{% endswagger %}
