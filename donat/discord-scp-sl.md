@@ -1,4 +1,4 @@
-# 🔔 Discord / SCP:SL
+# 🔔Discord/SCP:SL🔔
 
 Discord роль - **150₽/месяц** (цвет + названия)
 

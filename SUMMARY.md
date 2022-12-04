@@ -26,11 +26,11 @@
 ## 💰 Донат
 
 * [🔔 Discord / SCP:SL](donat/discord-scp-sl.md)
-* [💰Аристократ-220₽/месяц💰](donat/aristokrat-220rub-mesyac.md)
-* [🎁Граф - 320₽/месяц🎁](donat/graf-320rub-mesyac.md)
-* [🥎Дворянин-420₽/месяц🥎](donat/dvoryanin-420rub-mesyac.md)
-* [💸Боярин - 620₽/месяц💸](donat/boyarin-620rub-mesyac.md)
-* [💳Реквизиты/алгоритм покупки привилегии💳](donat/rekvizity-algoritm-pokupki-privilegii.md)
+* [💰 Аристократ - 220₽/месяц](donat/aristokrat-220rub-mesyac.md)
+* [🎁 Граф - 320₽/месяц](donat/graf-320rub-mesyac.md)
+* [🎾 Дворянин - 420₽/месяц](donat/dvoryanin-420rub-mesyac.md)
+* [💸 Боярин - 620₽/месяц](donat/boyarin-620rub-mesyac.md)
+* [💳 Реквизиты / алгоритм покупки привилегии](donat/rekvizity-algoritm-pokupki-privilegii.md)
 
 ## 👮 Админстрация <a href="#admin" id="admin"></a>
 
